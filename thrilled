@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Thrilled to be here!</title>
+<style>
+		body {
+			font-family: Arial, sans-serif;
+			background-color: #f2f2f2;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+		}
+		h1 {
+			font-size: 2rem;
+			color: #1a1a1a;
+			text-align: center;
+			margin-top: 20px;
+		}
+		p {
+            text-align: justify;
+            text-justify: auto;
+			font-size: 1.2rem;
+			color: #4d4d4d;
+			line-height: 1.5;
+			margin: 20px 0;
+		}
+		.container {
+            width: 50%;
+			margin: auto;
+			padding: 20px;
+			background-color: #fff;
+			box-shadow: 10px 10px 10px rgba(31, 13, 13, 0.1);
+			border: 2.5px solid rgb(25, 128, 88);
+			border-radius: 15px;
+        }
+	</style>
+</head>
+<body>
+    <div class="container">
+	<h1>Thrilled to be here!</h1>
+	<p>Hi everyone,</p>
+	<p>I'm thrilled to be on Github! I am a marketer and tech enthusiast. I am hoping to leverage this great platform for collaborating on software projects; especially those that solve the everyday problems faced by marketers and customers.</p>
+	<p>Also looking forward to connecting with development teams for website changes or optimizations, contributing to open-source projects, managing content workflows, developing custom marketing tools or scripts, and learning new skills.</p>
+	<p>Thanks for stopping by my repository, and I hope to see you around on Github!</p>
+	<p>Best,<br>Cynthia Mutanu</p>
+    </div>
+</body>
+</html>
